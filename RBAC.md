@@ -1,1 +1,24 @@
-- Phân quyền
+- Quan ly nguoi dung
+  - get_al_user
+  - search_user
+  - change_user_role
+  - view_user_role
+
+ 
+ - Quan ly Role
+  - CRUD Role
+  - get all role
+  - search role
+  
+ - Quan ly Permission/Scope
+  - get_permissions
+  - search_permissions
+  - create_permissions
+  - edit_permissions
+  - get_all_permission_from_user
+  - get_all_scopes_from_user
+  - search_scopes
+  - create_scopes
+  - delete_scopes
+  - edit_scopes
+  - get_scope_from_permission
