@@ -4,13 +4,12 @@
   - change_user_role
   - view_user_role
 
- 
- - Quan ly Role
+- Quan ly Role
   - CRUD Role
   - get all role
   - search role
-  
- - Quan ly Permission/Scope
+
+- Quan ly Permission/Scope
   - get_permissions
   - search_permissions
   - create_permissions
